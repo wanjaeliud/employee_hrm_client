@@ -18,7 +18,7 @@ function NavBar() {
           </NavLink>
 
           <NavLink className="nav-item" to="/jobs">
-            Search By Job
+            Search by job
           </NavLink>
         </div>
       </nav>
