@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Home() {
+function Hire() {
   return (
       <div>
-        Landing page
+        Hire a Dev
       </div>
   );
 }
 
-export default Home;
+export default Hire;

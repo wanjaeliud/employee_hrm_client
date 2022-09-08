@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Home() {
+function JobContainer() {
   return (
       <div>
-        Landing page
+        View a job
       </div>
   );
 }
 
-export default Home;
+export default JobContainer;
