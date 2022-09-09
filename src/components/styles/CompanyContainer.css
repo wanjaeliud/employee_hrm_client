@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cmp-profile {
+    background: #496613;
+    background: -webkit-linear-gradient(top left, #496613, #cd89e9);
+    background: -moz-linear-gradient(top left, #496613, #cd89e9);
+    background: linear-gradient(to bottom right, #496613, #cd89e9);
+}
+
+img {
+    max-width: 20rem;
+    padding: 20px;
+}
+
+.company-container {
+    margin-right: 20px;
+    margin-top: 20px;
+    border-radius: 5rem;
+    background: rgb(10, 14, 14);
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px;
+    align-items: center;
+    /* flex-direction: row; */
+    justify-content: center;
+    font-family: "PT Sans", sans-serif;
+
+}
+
+.cmp {
+    background-color: rgb(212, 207, 200);
+}
+.cmp:hover {
+    background-color: rgb(120, 163, 219);
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    box-shadow: 0 4px 15px 5px rgba(0, 0, 0, 0.5);
+    transition: 0.5s all ease-in-out;
+}
+
+.Input-wrapper input {
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+    border: 0px;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0.5);
+    text-align: center;
+    font-size: 25px;
+}
+
+.search {
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 10px;
+    /*color: rgb(243, 238, 231);*/
+}

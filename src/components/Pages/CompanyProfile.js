@@ -3,7 +3,7 @@ import React from 'react';
 function CompanyProfile() {
   return (
       <div>
-        company profile
+        each company profile
       </div>
   );
 }
