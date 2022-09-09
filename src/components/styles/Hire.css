@@ -1,0 +1,22 @@
+.hire-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(rgba(69, 174, 231, 0.7), rgba(24, 76, 105, 0.7)),
+    url(img.png);
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 50vw;
+}
+
+.hire-header {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    color: rgb(221, 235, 235);
+}
+.hire-img {
+    width: 150px;
+}
