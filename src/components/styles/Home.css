@@ -20,7 +20,7 @@
 }
 
 .homepage-container {
-    background: linear-gradient(rgba(28, 188, 183, 0.7), rgba(3, 35, 42, 0.7)), url(img.png) no-repeat center center fixed;
+    background: linear-gradient(rgba(69, 174, 231, 0.7), rgba(24, 76, 105, 0.7)), url(img.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
