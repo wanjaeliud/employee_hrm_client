@@ -13,7 +13,7 @@ function EditCompany() {
   const [editCompany, setEditCompany] = useState({
     name: "",
     image: "",
-    restaurant_type: "",
+    company_type: "",
     location: "",
     contact: "",
   });
