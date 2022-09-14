@@ -11,6 +11,10 @@
 - [Authors Info and Acknowledgment](#Authors-Info-and-Acknowledgment)
 ***
 
+## Project API 
+
+You can use this app with it's API [see the repo](https://github.com/wanjaeliud/employee_hrm_backend)
+
 ## Screenshots
 ![image](/src/components/styles/img1.png)
 
