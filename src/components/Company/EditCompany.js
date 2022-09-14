@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import  {useHistory } from 'react-router';
-import {Link, useParams} from 'react-router-dom';
+// import  { useHistory } from 'react-router';
+import {Link, useParams, useHistory} from 'react-router-dom';
 import "../styles/EditCompany.css"
 
 function EditCompany() {
