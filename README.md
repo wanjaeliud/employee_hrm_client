@@ -17,12 +17,23 @@
 ### [Description](#description)
 React.js CRUD Application to consume Web API, display and modify data
 
-### [Features](#features)
-* I can see a list of companies that have registered within the recruitment 
-agency.
-* I can filter a company with it’s type- (eg- banking, tech, stocks)
-* I can post a job, and it is linked to a company.
-* I can filter jobs using the job name
+## [Features](#features)
+
+### companies
+
+- Create a company
+- Update a company
+- Delete a company
+- Search companies through search bar
+- View individual company
+
+### jobs
+
+- Create a job
+- Update a job
+- Delete a job
+- Search job through search bar
+- View individual job
 
 
 ***
@@ -46,8 +57,10 @@ The page will reload if you make edits.
 
 ***
 ### [Technology Used](#technology-Used)
-    Reactjs
-    Ruby Sinatra
+    JavaScript
+    React
+    Bootsrap
+    Custom API Server
 
  ****
 ### [Licence](#licence)
